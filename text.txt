@@ -1,0 +1,16 @@
+About me:-
+	name : jitendra singh
+	github - link   :
+	linkedin - link : www.linkedin.com/in/jitendra-singh-a41114105
+	
+Project Needs:-
+	python2 or python3
+	pygame 
+	
+Problems:-
+	Counting in score
+
+Further Increment:-
+	Can add levels in game
+
+
